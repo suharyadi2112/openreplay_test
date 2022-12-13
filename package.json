@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@openreplay/tracker": "^4.1.9",
+    "next": "^13.0.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}
